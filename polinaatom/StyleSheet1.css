@@ -1,0 +1,200 @@
+body {
+  background-color: #33928D;
+  color: #F1EBD2;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  background: #56776C;
+  vertical-align: middle;
+}
+
+.top_menu, .main {
+  vertical-align: middle;
+  margin-right: 25px;
+  display: inline-block;
+}
+
+.top_menu li {
+  margin-right: 25px;
+  display: inline-block;
+  vertical-align: middle;
+  font-family: 'Passion one', sans-serif;
+}
+
+.top_menu a {
+  vertical-align: middle;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.top_menu a:hover {
+  color: #A7D0CD;
+}
+
+.main p {
+  margin-left: 30px;
+  margin-right: 30px;
+  vertical-align: middle;
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 40px;
+  color: white;
+}
+
+.main p:hover {
+  color: #A7D0CD;
+}
+
+.quote {
+	text-align: center;
+	margin-right: 30px;
+	font-size:25px;
+	font-weight: bold;
+	font-family: 'Work Sans', sans-serif;
+}
+
+
+hr {
+    width:80%;
+    margin:0 auto;
+}
+
+
+.artists{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1100px;
+  height: 600px;
+}
+
+.artists img {
+	width:1100px;
+	height: 600px;
+}
+
+.gracieabrams1{
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Passion one', sans-serif;
+
+}
+
+.gracieabrams1 img {
+	float: center;
+	width: 200px;
+	height: 200px;
+	border-radius: 200px;
+}
+
+.gracieabrams2 {
+	text-align: center;
+	margin-right: 250px;
+	margin-left: 250px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.gracieabramsaudio {
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.gracieabramsaudio .center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.harrystyles1 {
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Passion one', sans-serif;
+}
+
+.harrystyles img{
+	float: center;
+	width: 200px;
+	height: 200px;
+	border-radius: 200px;
+}
+
+.harrystyles2 {
+	text-align: center;
+	margin-right: 250px;
+	margin-left: 250px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.harrystylesaudio {
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.harrystylesaudio .center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.taylorswift1 {
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Passion one', sans-serif;
+}
+
+.taylorswift img{
+	float: center;
+	width: 200px;
+	height: 200px;
+	border-radius: 200px;
+}
+
+.taylorswift2 {
+	text-align: center;
+	margin-right: 250px;
+	margin-left: 250px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.taylorswiftaudio {
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.taylorswiftaudio .center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.recommendations {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Work Sans', sans-serif;
+}
+
+mark {
+	background-color: #D4DDB1;
+}
+
+footer {
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Work Sans', sans-serif;
+}
